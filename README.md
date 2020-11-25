@@ -3,7 +3,7 @@
 #### I am a final year B. Tech CSE student at UPES, Dehradun.
 
 - 🔭 I’m currently working on myself :wink:
-- 🌱 I’m currently learning Machine Learning, Deep Learning :muscle:
+- 🌱 I’m currently learning Machine Learning and Deep Learning :muscle:
 - 👯 I’m looking to collaborate on projects related to ML :open_hands:
 - 💬 Ask me about anything! Always up for a chat :smile:
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/avani-jindal/) [Email](mailto:avani.jindal@gmail.com) 
