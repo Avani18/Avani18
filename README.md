@@ -1,3 +1,5 @@
+![intro-image](https://github.com/Avani18/Avani18/blob/main/Avani%20Jindal.png)
+
 ### Hi there, I'm Avani, Software Engineer in making!
 
 #### I am a final year B. Tech CSE student at UPES, Dehradun.
