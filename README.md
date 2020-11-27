@@ -1,4 +1,4 @@
-<img src="https://github.com/Avani18/Avani18/blob/main/IntroCropped.png">
+<img src="https://github.com/Avani18/Avani18/blob/main/IntroCropped.png" height = "250px">
 
 ## Hi there, I'm Avani! <img src="https://github.com/Avani18/Avani18/blob/main/wave.gif" width="30px">
 
