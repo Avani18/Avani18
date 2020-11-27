@@ -21,22 +21,17 @@
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />](mailto:avani.jindal@gmail.com)
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />](https://www.facebook.com/avani.jindal)
 
-<br />
----
-
 ### Languages and Tools:
 
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/python.png" title="Python" /></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/c-programming.png" title="C"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png" title="Java"/></code>
 <code><img width="40px" height="48px" src="https://github.com/Avani18/Avani18/blob/main/mysqllogo.jpg" title="MySQL"/></code>
-
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/tensorflow.png" title="TensorFlow"/></code>
 <code><img width="40px" src="https://img.icons8.com/doodle/48/000000/learning.png" title="Machine Learning"/></code>
 <code><img width="40px" src="https://github.com/Avani18/Avani18/blob/main/jupyterlogo.png" title="Jupyter Notebook"/></code>
-
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/android-os.png" title="Android Development"/></code>
-<code><img width="40px" src="https://icons8.com/icon/33039/amazon-web-services.png" title="AWS"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" title="AWS"/></code>
 <code><img width="40px" src="https://img.icons8.com/fluent/2x/github.png" title="GitHub"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/git.png" title="Git"/></code>
 <code><img width="40px" src="https://img.icons8.com/fluent/96/console.png" title="Terminal"/></code>
@@ -44,9 +39,6 @@
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/google-docs--v1.png" title="Google Docs"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/google-sheets.png" title="Google Sheets"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/google-slides.png" title="Google Slides"/></code>
-
-
-
 <img align="right" src="https://rushter.com/counter.svg">
 
 <!--## &#x1f4c8; GitHub Stats
