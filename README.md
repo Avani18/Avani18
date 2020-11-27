@@ -1,8 +1,9 @@
-<div style="text-align:center">
-<img src="https://github.com/Avani18/Avani18/blob/main/IntroCropped.png" class="center" width = "600px" height = "250px">
+<p align="center">
+  <img src="https://github.com/Avani18/Avani18/blob/main/IntroCropped.png" class="center" width = "600px" height = "250px"/>
+</p>
 
 ## Hi there, I'm Avani! <img src="https://github.com/Avani18/Avani18/blob/main/wave.gif" width="30px">
-</div>
+
 
 #### I am a final year B. Tech CSE student at UPES, Dehradun.
 
