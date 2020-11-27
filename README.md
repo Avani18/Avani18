@@ -12,13 +12,14 @@
 - 💬 Ask me about anything! Always up for a chat :smile:
 - ⚡ Fun fact: I love to sleep but also don't want to go to bed before 3 a.m :sleeping::v:
 <br />
+
 ### Connect with me:
 
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />](https://www.linkedin.com/in/avani-jindal/)
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />](https://www.instagram.com/avaniisjinda/)
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />](mailto:avani.jindal@gmail.com)
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />](https://www.facebook.com/avani.jindal)
-------------------------------
+
 <br />
 
 ### Languages and Tools:
