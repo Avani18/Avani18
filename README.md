@@ -1,5 +1,5 @@
-<p class="aligncenter">
-<img src="https://github.com/Avani18/Avani18/blob/main/IntroCropped.png" class="center" width = "700px" height = "250px">
+<p style="text-align:center;">
+<img src="https://github.com/Avani18/Avani18/blob/main/IntroCropped.png" class="center" width = "650px" height = "250px">
 
 ## Hi there, I'm Avani! <img src="https://github.com/Avani18/Avani18/blob/main/wave.gif" width="30px">
 </p>
