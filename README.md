@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Avani18/Avani18/blob/main/IntroCropped.png" class="center" width = "600px" height = "250px"/>
+  <img src="https://github.com/Avani18/Avani18/blob/main/IntroCropped.png" class="center" />
  </p>
  
 ## Hi there, I'm Avani! <img src="https://github.com/Avani18/Avani18/blob/main/wave.gif" width="30px">
@@ -20,6 +20,8 @@
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />](https://www.instagram.com/avaniisjinda/)
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />](mailto:avani.jindal@gmail.com)
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />](https://www.facebook.com/avani.jindal)
+
+<br />
 
 ### Languages and Tools:
 
