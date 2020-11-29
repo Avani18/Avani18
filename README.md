@@ -41,9 +41,9 @@
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/google-sheets.png" title="Google Sheets"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/google-slides.png" title="Google Slides"/></code>
 
-<p align="right">
+<div style="text-align: right">
   ![](https://komarev.com/ghpvc/?username=Avani18&color=brightgreen)
-</p>
+</div>
 
 
 <!--## &#x1f4c8; GitHub Stats
