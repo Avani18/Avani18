@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on projects related to ML :open_hands:
 - 💬 Ask me about anything! Always up for a chat :smile:
 - ⚡ Fun fact: I love to sleep but also don't want to go to bed before 3 a.m :sleeping::v:
-<br />
+
 
 ### Connect with me:
 
@@ -27,7 +27,7 @@
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/python.png" title="Python" /></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/c-programming.png" title="C"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png" title="Java"/></code>
-<code><img width="40px" height="48px" src="https://github.com/Avani18/Avani18/blob/main/mysqllogo.jpg" title="MySQL"/></code>
+<code><img width="40px" height="48px" src="https://github.com/Avani18/Avani18/blob/main/mysqllogo.png" title="MySQL"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/tensorflow.png" title="TensorFlow"/></code>
 <code><img width="40px" src="https://img.icons8.com/doodle/48/000000/learning.png" title="Machine Learning"/></code>
 <code><img width="40px" src="https://github.com/Avani18/Avani18/blob/main/jupyterlogo.png" title="Jupyter Notebook"/></code>
