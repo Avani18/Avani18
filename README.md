@@ -15,10 +15,10 @@
 
 ### Connect with me:
 
-[<img align="left" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />](https://www.linkedin.com/in/avani-jindal/)
-[<img align="left" width="22px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />](https://www.instagram.com/avaniisjinda/)
-[<img align="left" width="22px" src="https://img.icons8.com/fluent/48/000000/gmail--v2.png" />](mailto:avani.jindal@gmail.com)
-[<img align="left" width="22px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />](https://www.facebook.com/avani.jindal)
+[<img align="left" width="40px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />](https://www.linkedin.com/in/avani-jindal/)
+[<img align="left" width="40px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />](https://www.instagram.com/avaniisjinda/)
+[<img align="left" width="40px" src="https://img.icons8.com/fluent/48/000000/gmail--v2.png" />](mailto:avani.jindal@gmail.com)
+[<img align="left" width="40px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />](https://www.facebook.com/avani.jindal)
 
 <br />
 
